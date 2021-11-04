@@ -71,7 +71,7 @@ python test.py --name=[the name of your experiment] --path=[path of your experim
 ```
 # Citation
 Please kindly cite the following paper in your publications if it helps your research:
-
+```
 @article{2020SiENet,
   title={SiENet: Siamese Expansion Network for Image Extrapolation}, 
   
@@ -86,5 +86,4 @@ Please kindly cite the following paper in your publications if it helps your res
   pages={1-1},
   
   year={2020},
-  
-}
+}```
